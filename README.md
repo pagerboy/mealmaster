@@ -1,5 +1,5 @@
 # MealMaster
-![Screenshot 2021-11-26 at 21-16-15 React App](https://user-images.githubusercontent.com/85981897/143605305-f9f09591-26a7-4e28-9e9e-5d88de470b63.png
+![Screenshot 2021-11-26 at 21-16-15 React App](https://user-images.githubusercontent.com/85981897/143605305-f9f09591-26a7-4e28-9e9e-5d88de470b63.png)
 ![Screenshot 2021-11-26 at 21-16-31 React App](https://user-images.githubusercontent.com/85981897/143605324-410435fd-ef60-44e4-9aad-bc88796169b2.png)
 
 
